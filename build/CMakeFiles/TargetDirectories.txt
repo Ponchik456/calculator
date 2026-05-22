@@ -1,0 +1,5 @@
+C:/calc/build/CMakeFiles/calculator.dir
+C:/calc/build/CMakeFiles/tests.dir
+C:/calc/build/CMakeFiles/RUN_TESTS.dir
+C:/calc/build/CMakeFiles/ALL_BUILD.dir
+C:/calc/build/CMakeFiles/ZERO_CHECK.dir
